@@ -17,7 +17,7 @@ if(isset($_SESSION['id']) && isset($_SESSION['username'])){
     <?php
 }
 else {
-    header("Location: login.php");
+    header("Location: index.php");
     exit();
 }
 ?>
