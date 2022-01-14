@@ -36,7 +36,6 @@
                                     <div class="dapp_profilepic">
                                         <img loading="lazy" src="https://playtoearn.net/img/dapp/lucky-unicorn/profile_picture/100_lucky-unicorn.jpg" alt="Lucky Unicorn">
                                     </div>
-
                                     <div>
                                         <div class="headline-dapp">
                                             <h1>Lucky Unicorn</h1>
@@ -46,15 +45,12 @@
                                     <hr />
                                     <p>Lucky Unicorn is a NFT Gaming &amp; NFT Trading platform where users could hatch eggs into different types of unicorns and use that to participate into multiple minigames. The core mechanism of the project is Play-to-Earn, meaning that players earn L99 while participating in the on-chain games. L99 token can be traded or used to enhance player&#039;s unicorn. Lucky Unicorn also utilize the Guild system which players could form or join different guilds to participate in Guild events &amp; activities.</p>
                                     <hr />
-                                    <hr />
                                         <div class="dapp_platforms">
                                             <a data-toggle="tooltip" data-placement="top" title="Binance" href="https://playtoearn.net/blockchaingames/Binance/All-Genre/All-Status/All-Device/All-NFT/All-PlayToEarn"><div class="lazy platformicon Binance" data-loader="bgLoader"></div></a>
                                         </div>
                                         <div class="dapp_devices">
                                             <a data-toggle="tooltip" data-placement="top" title="Web" href="https://playtoearn.net/blockchaingames/All-Blockchain/All-Genre/All-Status/Web/All-NFT/All-PlayToEarn"><div class="lazy deviceimg Web" data-loader="bgLoader"></div></a>
                                         </div>
-                                    <hr />
-                                    <hr />
                                     <hr />
                                     <div class="dapp_nftlist">
                                         <p class="related_dapp_h1">CarouselHere</p>
@@ -64,34 +60,25 @@
                             <div class="col-12 col-lg-4 col-xl-3">
                             <hr class="mobileonly">
                                 <div class="social">
-                                    <a target="_blank" rel="nofollow noopener" href="https://luckyunicorn.io?utm_source=PlayToEarn.net&amp;utm_medium=organic&amp;utm_campaign=gamepage" class="btn btn-outline-success"><div class="lazy socialimg website" data-loader="bgLoader"></div></a>
-                                    <a target="_blank" rel="nofollow noopener" href="https://twitter.com/LuckyUnicornNFT" class="btn btn-outline-success"><div class="lazy socialimg twitter" data-loader="bgLoader"></div></a>
-                                    <a target="_blank" rel="nofollow noopener" href="https://discord.gg/Ry6W3QvcHk" class="btn btn-outline-success"><div class="lazy socialimg discord" data-loader="bgLoader"></div></a>
-                                    <a target="_blank" rel="nofollow noopener" href="https://t.me/LuckyUnicornGlobal" class="btn btn-outline-success"><div class="lazy socialimg telegram" data-loader="bgLoader"></div></a>
-                                    <a target="_blank" rel="nofollow noopener" href="https://reddit.com/r/luckyunicorn" class="btn btn-outline-success"><div class="lazy socialimg reddit" data-loader="bgLoader"></div></a>
-                                    <a target="_blank" rel="nofollow noopener" href="https://blog.luckyunicorn.io" class="btn btn-outline-success"><div class="lazy socialimg medium" data-loader="bgLoader"></div></a>
-                                    <a target="_blank" rel="nofollow noopener" href="https://docs.luckyunicorn.io" class="btn btn-outline-success"><div class="lazy socialimg gitbook" data-loader="bgLoader"></div></a>
+                                    <h1> Ads2 </h2>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="bottommad">
-                        <div class="banner_advertise_bottom_ad">
-                            <div class="bsa_container_helper-bottom"><div id="bsa-zone_1622573644942-5_123456"></div></div>
-                        </div>
-                        <div class="banner_advertise_bottom">
-                            <a target="_blank" rel="nofollow noopener sponsored" href="https://doctorwho-worldsapart.com/exclusive-token-sale?utm_source=display&amp;utm_medium=cpc&amp;utm_campaign=PlayToEarn_Jan&amp;utm_id=DoctorWho">
-                            <picture>
-                                <source media="(max-width: 767px)" srcset="https://playtoearn.net/img/banner/doctorwho2_mobile.png">
-                                <source media="(min-width: 768px) and (max-width: 1399px)" srcset="https://playtoearn.net/img/banner/doctorwho2_tablet.png">
-                                <source media="(min-width: 1400px)" srcset="https://playtoearn.net/img/banner/doctorwho290.png">
-                                <img loading="lazy" src="https://playtoearn.net/img/banner/doctorwho290.png" id="banner_advertise_type3" alt="Banner Advertise">
-                            </picture>
-                            </a>
-                            <div class="top_banner_info"><a href="https://playtoearn.net/advertise"><i class="fas fa-info"></i></a></div>
-                        </div>
-                    </div>
                 </div>
+            </div>
+        </div>
+        <div class="topad">
+            <div class="banner_advertise_top">
+                <a target="_blank" rel="nofollow noopener sponsored" href="https://revvracing.com/?utm_source=playtoearn.net&amp;utm_medium=banner+below+logo&amp;utm_campaign=playtoearn.net_banner+below+logo_play+to+earn+prizes">
+                <picture>
+                    <source media="(max-width: 767px)" srcset="https://playtoearn.net/img/banner/revvracing_mobile.gif">
+                    <source media="(min-width: 768px) and (max-width: 1399px)" srcset="https://playtoearn.net/img/banner/revvracing_tablet.gif">
+                    <source media="(min-width: 1400px)" srcset="https://playtoearn.net/img/banner/revvracing90.gif">
+                    <img src="https://playtoearn.net/img/banner/revvracing90.gif" id="banner_advertise_type1" alt="Banner Advertise">
+                </picture>
+                </a>
+                <div class="top_banner_info"><a href="https://playtoearn.net/advertise"><i class="fas fa-info"></i></a></div>
             </div>
         </div>
         <div class="scroll-to-top">
@@ -102,56 +89,10 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css">
-
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.15.0/umd/popper.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
-
-    <script>
-
-        $(function(){
-            // If media query mobile
-            var mediaQuery = window.matchMedia("(max-width: 768px)");
-            $('.deviceimg').addClass('loaded');
-            $('.platformicon').addClass('loaded');
-            $('.socialimg').addClass('loaded');
-            $('.socialimgfooter').addClass('loaded');
-            $('.virtualworldicon').addClass('loaded');
-
-            $('.banner_advertise_top_ad').css('display', 'none');            
-            $('.banner_advertise_toppagetext').css('display', 'none');
-            $('.banner_advertise_toppagetext_replace').addClass('banner_advertise_toppagetext_active');
-            $('.banner_advertise_bottom_ad').css('display', 'none');
-            $('.banner_advertise_bottom').css('display', 'flex');
-            $('.sidebar_banner').css('display', 'block');
-            $('.report_edit_container').addClass('cz-active');
-            $('.report_edit_container').css('display', 'block');
-
-            // add button in front of button end
-            var back_to_top_button = ['<a href="#top" class="scroll-to-top" aria-label="Scroll to top"></a>'].join("");
-            $('body').append(back_to_top_button);
-
-            // hide button
-            $('.scroll-to-top').hide();
-
-            // scroll function
-            $(window).scroll(function () {
-                if ($(this).scrollTop() > 50) { // after 50px scrolled
-                    $('.scroll-to-top').fadeIn();
-                } else {
-                    $('.scroll-to-top').fadeOut();
-                }
-            });
-
-            $('.scroll-to-top .btn').click(function () { // click on button
-                $('body,html').animate({
-                    scrollTop: 0
-                }, 800);
-                return false;
-            });
-        });
-    </script>
 </body>
 </html>
